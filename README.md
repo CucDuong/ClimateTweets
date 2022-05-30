@@ -19,7 +19,7 @@
 
 - After loading the json file, one can use the Python3 script ***./code/query_text.py*** to retrieve the text from Twitter. Due to Twitter's terms and conditions, the text could not be shared but need to be retrieved using the provided tweet_id(s). Python3 [json](https://docs.python.org/3/library/json.html) and [requests](https://pypi.org/project/requests/) packages are required to run this script. Up to the date of this document, a [full-archive search API from Twitter](https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction) is required to run this script.
 
-- Up to the date of this document, Twitter only offers full-archive search API for Academic Research only. Follow this [instruction page](https://developer.twitter.com/en/products/twitter-api/academic-research) to apply for one.
+- Up to the date of this document, Twitter only offers full-archive search API for Academic Research. Follow this [instruction page](https://developer.twitter.com/en/products/twitter-api/academic-research) to apply for one.
 
 
 ### II. How-to query ClimateTweets
